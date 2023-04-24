@@ -29,3 +29,11 @@ List of items: A list of movies or books, each represented as an object with rel
 User preferences: A set of preferences for the user, which can include preferred genres, minimum release year/publication date, favorite directors/authors, etc.
 
 **Output:** A list of recommended items, sorted by their relevance to the user's preferences
+
+
+## Challenge 3 - Streams
+Create a program that reads data from a CSV file and stores it in a collection. Use streams to read the file and appropriate data structures to store the data. Then use the collection to perform some operation on the data, such as sorting or filtering.
+
+## Challenge 4
+Create a simple game of rock-paper-scissors that allows a user to play against the computer.
+
